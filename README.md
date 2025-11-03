@@ -1,4 +1,4 @@
-# chud.ai - AI Creator Platform
+# Monetizer.ai - AI Creator Platform
 
 A modern web application that allows users to chat with AI creators powered by AWS Bedrock (Claude-3-Sonnet).
 
@@ -38,13 +38,6 @@ A modern web application that allows users to chat with AI creators powered by A
 4. **Type Messages**: Use the chat input to send messages
 5. **Get AI Responses**: Receive intelligent responses from your chosen creator
 
-## Available Creators
-
-- 🤖 **Alex Chen** - AI & Machine Learning Expert
-- ✍️ **Sarah Johnson** - Creative Writing Specialist  
-- 💼 **Marcus Rodriguez** - Business Strategy Consultant
-- 📊 **Emma Wilson** - Data Science Expert
-- 💻 **David Kim** - Software Development Specialist
 
 ## API Endpoints
 
